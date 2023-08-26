@@ -18,6 +18,17 @@ body{
     gap: 12px;
 }
 
+.title{
+    font-size: 28px;
+    color: #5a7961;
+    font-weight: 500;
+}
+.des{
+    font-size: 16px;
+    color: gray;
+    
+}
+
 input{
     width: 100%;
     box-sizing: border-box;
@@ -54,9 +65,9 @@ input:focus{
 
 .user{
     display: flex;
-    gap: 40px;
+    gap: 30px;
     background-color: white;
-    padding: 6px 36px;
+    padding: 6px 16px;
     margin-bottom: 12px;
     border-radius: 12px;
 
